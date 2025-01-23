@@ -1,14 +1,7 @@
-  __| | _)                        __  /                     \    |                  
-  _|  |  |  _ \  _ \   -_)   _|      /    -_)   _| _ \     _ \   |   _` |   _| ` \  
- _|  _| _| .__/ .__/ \___| _|     ____| \___| _| \___/   _/  _\ _| \__,_| _| _|_|_| 
-          _|   _|                                                                   
-__ Wake up! Today's gonna be a good day!!!! ___
-~---~~~~----~~~~             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+# FlipperZero-Alarm
 **Created By Sanka1pp
 **
 
-# FlipperZero-Alarm
 A Better Alarm for the Flipper Zero. With great/annoying feature to disable the alarm with a flipper zero password to stop the alarm.
 
 ## 📦 Installation
