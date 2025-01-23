@@ -1,0 +1,4 @@
+Filetype=Flipper Application
+Name=FlipperZero-Alarm
+Category=Tools
+Icon=alarm.png
