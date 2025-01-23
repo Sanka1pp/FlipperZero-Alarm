@@ -2,21 +2,12 @@
   _|  |  |  _ \  _ \   -_)   _|      /    -_)   _| _ \     _ \   |   _` |   _| ` \  
  _|  _| _| .__/ .__/ \___| _|     ____| \___| _| \___/   _/  _\ _| \__,_| _| _|_|_| 
           _|   _|                                                                   
-                          _.-~  )
-                    _..--~~~~,'   ,-/     _
-                 .-'. . . .'   ,-','    ,' )
-               ,'. . . _   ,--~,-'__..-'  ,'
-             ,'. . .  (@)' ---~~~~      ,'
-            /. . . . '~~             ,-'
-           /. . . . .             ,-'
-          ; . . . .  - .        ,'
-         : . . . .       _     /
-        . . . . .          `-.:
-       . . . ./  - .          )
-      .  . . |  _____..---.._/ ____ Wake up! Today's gonna be a good day!!!! ___
+__ Wake up! Today's gonna be a good day!!!! ___
 ~---~~~~----~~~~             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **Created By Sanka1pp
 **
+
 # FlipperZero-Alarm
 A Better Alarm for the Flipper Zero. With great/annoying feature to disable the alarm with a flipper zero password to stop the alarm.
 
